@@ -19,3 +19,4 @@ fdsfsfsjgf
 6666666666master test
 6666666666hot-fix test
 remote add
+local add
